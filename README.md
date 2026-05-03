@@ -37,10 +37,10 @@ Python 3.12. No local GPU required for diagnostic scripts (01, 02, 03).
 
 ## Datasets
 
-| Dataset | Used in | Download |
-|---|---|---|
-| Speech Commands v2 | 02, 10, 11, 11b, 12 | `torchaudio.datasets.SPEECHCOMMANDS` or manual download |
-| UrbanSound8K | 01 | https://urbansounddataset.weebly.com/urbansound8k.html |
+| Dataset |  Download |
+|---|---|
+| Speech Commands v2  | https://www.kaggle.com/datasets/sylkaladin/speech-commands-v2 |
+| UrbanSound8K |  https://zenodo.org/records/1203745 |
 
 Scripts expect Speech Commands v2 as `SpeechCommandsV2.zip` placed at
 `/content/drive/MyDrive/datasets/SpeechCommandsV2.zip` (Google Drive).
